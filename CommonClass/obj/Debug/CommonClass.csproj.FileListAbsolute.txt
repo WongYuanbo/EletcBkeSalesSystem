@@ -1,0 +1,8 @@
+C:\Users\Administrator.DESKTOP-FL6S1R6\Desktop\LiDemo\StartForm\CommonClass\bin\Debug\CommonClass.dll
+C:\Users\Administrator.DESKTOP-FL6S1R6\Desktop\LiDemo\StartForm\CommonClass\bin\Debug\CommonClass.pdb
+C:\Users\Administrator.DESKTOP-FL6S1R6\Desktop\LiDemo\StartForm\CommonClass\obj\Debug\CommonClass.dll
+C:\Users\Administrator.DESKTOP-FL6S1R6\Desktop\LiDemo\StartForm\CommonClass\obj\Debug\CommonClass.pdb
+C:\Users\Administrator\Desktop\LiDemo\StartForm\CommonClass\bin\Debug\CommonClass.dll
+C:\Users\Administrator\Desktop\LiDemo\StartForm\CommonClass\bin\Debug\CommonClass.pdb
+C:\Users\Administrator\Desktop\LiDemo\StartForm\CommonClass\obj\Debug\CommonClass.dll
+C:\Users\Administrator\Desktop\LiDemo\StartForm\CommonClass\obj\Debug\CommonClass.pdb

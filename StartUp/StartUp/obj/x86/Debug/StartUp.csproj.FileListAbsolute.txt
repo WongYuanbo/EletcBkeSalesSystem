@@ -1,0 +1,11 @@
+C:\Users\Administrator.DESKTOP-FL6S1R6\Desktop\LiDemo\StartForm\StartUp\StartUp\obj\x86\Debug\StartUp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.DESKTOP-FL6S1R6\Desktop\LiDemo\StartForm\StartUp\StartUp\obj\x86\Debug\StartUp.csproj.ResolveComReference.cache
+C:\Users\Administrator.DESKTOP-FL6S1R6\Desktop\LiDemo\StartForm\StartUp\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+C:\Users\Administrator.DESKTOP-FL6S1R6\Desktop\LiDemo\StartForm\StartUp\StartUp\obj\x86\Debug\EBike.SrartByGroup.FormStartByGroup.resources
+C:\Users\Administrator.DESKTOP-FL6S1R6\Desktop\LiDemo\StartForm\StartUp\StartUp\obj\x86\Debug\EBike.SrartByGroup.FormUserGroupManage.resources
+C:\Users\Administrator.DESKTOP-FL6S1R6\Desktop\LiDemo\电动车销售管理系统V1.0\电动车销售管理系统V1.0.exe.config
+C:\Users\Administrator.DESKTOP-FL6S1R6\Desktop\LiDemo\电动车销售管理系统V1.0\电动车销售管理系统V1.0.exe
+C:\Users\Administrator.DESKTOP-FL6S1R6\Desktop\LiDemo\电动车销售管理系统V1.0\电动车销售管理系统V1.0.pdb
+C:\Users\Administrator.DESKTOP-FL6S1R6\Desktop\LiDemo\StartForm\StartUp\StartUp\obj\x86\Debug\EBike.Properties.Resources.resources
+C:\Users\Administrator.DESKTOP-FL6S1R6\Desktop\LiDemo\StartForm\StartUp\StartUp\obj\x86\Debug\电动车销售管理系统V1.0.exe
+C:\Users\Administrator.DESKTOP-FL6S1R6\Desktop\LiDemo\StartForm\StartUp\StartUp\obj\x86\Debug\电动车销售管理系统V1.0.pdb
